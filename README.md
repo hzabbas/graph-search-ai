@@ -42,7 +42,7 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/graph-search-ai.git](https://github.com/YOUR_USERNAME/graph-search-ai.git)
+    git clone https://github.com/hzabbas/graph-search-ai.git
     cd graph-search-ai
     ```
 
